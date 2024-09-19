@@ -1,0 +1,16 @@
+{
+  "name": "tugas_pekanan_2-javascript",
+  "version": "1.0.0",
+  "description": "tugas pekanan untuk javascript session",
+  "main": "index.js",
+  "scripts": {
+    "test": "node soal1_squareRoot.js",
+    "test2": "node soal2_totalQuantity.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
